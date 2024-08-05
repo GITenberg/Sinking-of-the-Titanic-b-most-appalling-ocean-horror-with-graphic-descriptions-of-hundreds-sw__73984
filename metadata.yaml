@@ -1,0 +1,35 @@
+_repo: Sinking-of-the-Titanic-b-most-appalling-ocean-horror-with-graphic-descriptions-of-hundreds-sw__73984
+_version: 0.0.1
+alternative_title: 'Sinking of the Titanic :  thrilling stories told by survivors'
+creator:
+  author:
+    agent_name: Mowbray, Jay Henry
+    birthdate: 1869
+    deathdate: 1955
+    gutenberg_agent_id: '57298'
+    url: http://www.gutenberg.org/2009/agents/57298
+description: ''
+gutenberg_issued: '2024-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73984'
+language: en
+pgterms:marc904: https://archive.org/details/sinkingoftitanic00mowb/mode/2up
+pgterms:marc905: 20240315002528mowbray
+pgterms:marc906: '1912'
+pgterms:marc907: US
+production_note: Susan E., Chuck Greif and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aHarrisburg :$bThe Minter Company, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Titanic (Steamship)'
+- !lcsh 'Shipwrecks -- North Atlantic Ocean -- History -- 20th century'
+- !lcc 'G'
+- GITenberg
+title: 'Sinking of the "Titanic" : $b most appalling ocean horror; with graphic descriptions
+  of hundreds swept to eternity beneath the waves ...'
+url: http://www.gutenberg.org/ebooks/73984
